@@ -54,6 +54,7 @@ class TicTacToe
     input = position.strip
     position = input_to_index(user_input)
     user = current_player
-    if position_is_valid
+    if valid_move?(position)
+      
   
 end
