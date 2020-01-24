@@ -103,5 +103,6 @@ class TicTacToe
   
   def winner
     position = []
+    position = won?
     
 end
