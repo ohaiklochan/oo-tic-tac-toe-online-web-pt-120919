@@ -41,7 +41,7 @@ class TicTacToe
     position.between?(0,8) && !position_taken?(position)
   end
   
-  def turn
+  def turn_count
     
   
 end
