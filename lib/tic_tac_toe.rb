@@ -85,4 +85,6 @@ class TicTacToe
     @board.all? {|position| position == "X" || position == "O"}
   end
   
+  def draw?
+    
 end
