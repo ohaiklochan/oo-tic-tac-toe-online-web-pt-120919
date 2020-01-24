@@ -58,6 +58,7 @@ class TicTacToe
       move(position, user)
       display_board
     else
-      
+      turn
+    end
   
 end
