@@ -104,5 +104,7 @@ class TicTacToe
   def winner
     position = []
     position = won?
-    
+    if position == false
+      return nil
+      
 end
