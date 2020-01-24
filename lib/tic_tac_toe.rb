@@ -80,4 +80,7 @@ class TicTacToe
   }
     return false
   end
+  
+  def full
+    
 end
