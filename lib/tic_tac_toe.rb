@@ -106,5 +106,6 @@ class TicTacToe
     position = won?
     if position == false
       return nil
-      
+    else
+      if @board[position[0]]
 end
